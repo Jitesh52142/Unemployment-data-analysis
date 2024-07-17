@@ -7,7 +7,7 @@ This project is an Unemployment Data Analysis developed using Jupyter Notebook. 
 ## Learning
 
 - **Data Preprocessing**: Techniques for cleaning and preparing unemployment datasets for analysis.
-- **Data Visualization**: Application of various visualization tools to represent unemployment trends effectively.
+- **Data Visualization**: Application of various visualization liberaries  to represent unemployment trends effectively.
 
 ## Achievements
 
